@@ -41,22 +41,21 @@ Sample of a great commit message:
 
 - 🚫Don't use terms like "Fix", "solved", "test" or similar, the type of the commit is made explicit by the emoji itself.
 
-### Use the table below as reference for the correct emoji to use:
+### Use the table below as reference for the correct emoji to use
 
-    ✨(sparkles)	New feature!
-    🐛(bug)	Bugfix - write what happened
+    ✨(sparkles) New feature!
+    📃(doc) Documentation
+    ⚡(thunder)  performance improvement
+    ✅(check) Test writing
+    🎨(art) Linting, Format, Comments removed (only)
+    🛠 (hammer) Refactor, Dead-code (possible break-change or bug)
+    🔧(wrench) Changes on configurations and tools used
+    🐛(bug) Bugfix - write what happened
       OR what wasn't supposed to happen
       and NOT what was the problem or how you solved it:
         ❌"lib.method() was undefined"
         ❌"fix disabled button"
-        👍"tool did not start"
-        👍"Save button wasn't enabled"
+        👍"Xtool did not start"
+        👍"save button wasn't enabled"
         👍"financial quotes expiring too early"
         👍"not able to close the dialog"
-    📃(doc)	Documentation
-    ⚡(thunder)	Software performance improvement
-    ✅(check)	Test writing
-    🎨(art)	Linting, Format, Comments removed (only)
-    🛠(hammer)	Refactor, Dead-code (possible break-change or bug)
-    📦(package)	Operations on packages (only)
-    🔧(wrench)	Changes on configuration
